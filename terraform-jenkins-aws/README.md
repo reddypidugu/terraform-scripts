@@ -16,5 +16,5 @@ ec2 instance whenever it is needed.
 going to provide ec2 instance.
 
 Note: Finally dont forget to run "terraform destroy auto-approve" command to remove the resources you craeted 
-via terraform, otherwise you will be charged from AWS for running.
+via terraform, otherwise you will be charged by AWS for running resources.
 
